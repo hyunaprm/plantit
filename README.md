@@ -44,11 +44,8 @@
 
 
 
-- 팀장
 
-  안준웅 ( ENTJ ) : Backend, Bigdata, Server
-
-- 팀원
+  안준웅 ( ENTJ ) : Backend, Bigdata
 
   송현아 ( ENTJ ) : Backend, DB
 
